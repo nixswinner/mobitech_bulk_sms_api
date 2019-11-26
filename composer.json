@@ -3,6 +3,7 @@
     "description": "Send bulk sms using the mobitech sms platform api",
     "type": "library",
     "license": "MIT",
+    "version":"0.1.0",
     "authors": [
         {
             "name": "nixswinner",
@@ -14,6 +15,6 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "curl/curl": "^2.0"
+        //"curl/curl": "^2.0"
     }
 }
