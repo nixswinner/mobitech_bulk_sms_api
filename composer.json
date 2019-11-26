@@ -1,0 +1,17 @@
+{
+    "name": "mobitech/mobitech-sms",
+    "description": "Send bulk sms using the mobitech sms platform api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nixswinner",
+            "email": "nixondeveloper@gmail.com"
+        }
+    ],
+     "autoload": {
+        "psr-4": {"mobitech\\MobitechSmsApi\\": "src/"}
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
