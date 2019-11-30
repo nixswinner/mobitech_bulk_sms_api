@@ -8,4 +8,7 @@ class Index
     {
         return $greet;
     }
+    public function sendSms($phone,$message){
+    	return "success ";
+    }
 }
