@@ -13,7 +13,8 @@
      "autoload": {
         "psr-4": {"mobitech\\MobitechSmsApi\\": "src/"}
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "require": {
         "curl/curl": "^2.0"
     }
