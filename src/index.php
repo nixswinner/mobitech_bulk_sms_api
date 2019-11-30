@@ -10,5 +10,6 @@ class Index
     }
     public function sendSms($phone,$message){
     	return "success ";
+    	
     }
 }
